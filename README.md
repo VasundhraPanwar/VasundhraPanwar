@@ -3,7 +3,7 @@
 💻 4th-year Computer Engineering student at **TIET, Patiala**  
 📊 Turning data into stories with **Power BI, DAX, Tableau, SQL, PostgreSQL, MySQL**  
 🤖 Exploring **Machine Learning & AI**  
-🧠 Love **Problem-Solving & DSA** (because why not torture my brain for fun?)  
+🧠 Love **Problem-Solving & DSA** 
 
 ---
 
