@@ -12,4 +12,3 @@
 
 ---
 
-> *"I turn coffee into insights, and bugs into... more bugs (but better ones)."* ☕🐞  
