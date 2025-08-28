@@ -1,9 +1,4 @@
-# 👋 Hey, I'm Vasundhra  
 
-💻 4th-year Computer Engineering student at **TIET, Patiala**  
-📊 Turning data into stories with **Power BI, DAX, Tableau, SQL, PostgreSQL, MySQL**  
-🤖 Exploring **Machine Learning & AI**  
-🧠 Love **Problem-Solving & DSA** 
 
 ---
 
